@@ -43,7 +43,7 @@ State Management: useState (React Hooks)
 
 1️⃣ Clone the repository
 
-git clone https://github.com/your-username/react-todo-app.git
+git clone https://github.com/NISHANT4510/Simple_Todo_App
 cd react-todo-app
 
 2️⃣ Install dependencies
