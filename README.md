@@ -58,4 +58,4 @@ The app will be available at http://localhost:5173/
 
 🌐 Live Preview
 
-Click here to view the live demo
+Check out the live version here: **[Live Demo](https://simple-todo-app-cyan-gamma.vercel.app/)**
